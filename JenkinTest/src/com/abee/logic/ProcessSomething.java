@@ -4,6 +4,6 @@ public class ProcessSomething {
 
 	public String process(String input){
 		
-		return "Hi "+ input + "!!!!";
+		return "Hi "+ input + "!!";
 	}
 }
