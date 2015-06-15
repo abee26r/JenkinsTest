@@ -1,4 +1,4 @@
-package com.abee;
+package com.abee.test;
 
 import static org.junit.Assert.*;
 

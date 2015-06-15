@@ -6,4 +6,8 @@ public class ProcessSomething {
 		
 		return "Hi "+ input + "!!!";
 	}
+	
+	public String testable(String a){
+		return a;
+	}
 }
